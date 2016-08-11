@@ -5,5 +5,3 @@ This project aims to show how many Players in your friends list have been VAC (V
 
 This first commit is a simple python file that takes a 64-bit Steam ID as its single command line parameter, and prints through standard output a list of Friends of this Steam ID, and their VAC status.
 
-My next step is to provide this as an API using Django REST Framework, and to build a front end for it using AngularJS.
-
